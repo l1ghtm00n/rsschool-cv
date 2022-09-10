@@ -27,6 +27,6 @@ public static boolean isPrime(int num) {
 # **Language:**
 * English: 
     + EPAM Systems test: A2
-    + Quick EFSET test: 
+    + Quick EFSET test: Advanced 86-100%
 * Russian: Native
 * Belarussian: Basic
